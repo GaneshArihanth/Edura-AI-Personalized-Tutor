@@ -20,7 +20,7 @@ interface ThemeState {
 export const useThemeStore = create<ThemeState>()(
   persist(
     (set) => ({
-      mode: 'light',
+      mode: 'dark',
       isDyslexia: false,
       isColorblind: false,
       language: 'en',
