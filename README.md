@@ -561,5 +561,3 @@ For issues and questions:
 - Database powered by [Supabase](https://supabase.com/)
 - AI powered by [Google Gemini](https://deepmind.google/technologies/gemini/)
 - Virtual reality environment powered by [FrameVR](https://framevr.io)
-
-**Note**: Make sure to never commit your `.env` file. The `.env` file is already in `.gitignore` for security.
