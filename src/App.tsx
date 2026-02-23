@@ -12,7 +12,7 @@ import { initializeAuth } from "@/services/authService";
 import { TelemetryProvider } from "@/contexts/TelemetryContext";
 import { useTelemetry } from "@/hooks/useTelemetry";
 import { AmbientTutor } from "@/components/AmbientTutor";
-import { FloatingChatbot } from "@/components/FloatingChatBot";
+import { FloatingChatbot } from "@/components/FloatingChatbot";
 
 import Landing from "./pages/Landing";
 import Login from "./pages/Login";
