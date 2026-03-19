@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "start": "deno run --allow-all index.ts"
+  },
+  "imports": {
+    "std/": "https://deno.land/std@0.177.1/"
+  }
+}
